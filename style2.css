@@ -1,0 +1,13 @@
+#mybutton{
+  background-color: blue;
+  color: white;
+  font-family: Comic Sans MS;
+  font-size: 108px;
+  border-radius: 12px;
+}
+
+#whatever{
+  display: none;
+  font-family: Comic Sans MS;
+
+}
